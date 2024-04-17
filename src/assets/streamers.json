@@ -1,0 +1,190 @@
+[
+    {
+        "title": "Netflix",
+        "logo": "https://static-00.iconduck.com/assets.00/netflix-icon-icon-1024x1024-w4ni4f6d.png",
+        "plans": [
+            {
+                "name": "Standard with Ads",
+                "price": 6.99,
+                "ads": true,
+                "points": [
+                    "Ad-supported, all but a few movies and TV shows available, unlimited mobile games",
+                    "Watch on 2 supported devices at a time",
+                    "Watch in Full HD",
+                    "Download on 2 supported devices at a time"
+                ]
+            },
+            {
+                "name": "Standard",
+                "price": 15.49,
+                "ads": false,
+                "points": [
+                    "Unlimited ad-free movies, TV shows, and mobile games",
+                    "Watch on 2 supported devices at a time",
+                    "Watch in Full HD",
+                    "Download on 2 supported devices at a time",
+                    "Option to add 1 extra member who doesn't live with you"
+                ]
+            },
+            {
+                "name": "Premium",
+                "price": 22.99,
+                "ads": false,
+                "points": [
+                    "Unlimited ad-free movies, TV shows, and mobile games",
+                    "Watch on 4 supported devices at a time",
+                    "Watch in Ultra HD",
+                    "Download on 6 supported devices at a time",
+                    "Option to add up to 2 extra members who don't live with you",
+                    "Netflix spatial audio"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Hulu",
+        "logo": "https://reviewed-com-res.cloudinary.com/image/fetch/s--xT7E_lQY--/b_white,c_fill,cs_srgb,f_auto,fl_progressive.strip_profile,g_auto,h_972,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1591287416567/Hulu_Logo.jpg",
+        "plans": [
+            {
+                "name": "Standard with Ads",
+                "price": 7.99,
+                "ads": false,
+                "points": [
+                    "Access to our ad-supported streaming library"
+                ]
+            },
+            {
+                "name": "Standard",
+                "price": 17.99,
+                "ads": false,
+                "points": [
+                    "Watch most of those same shows and movies without the ad breaks",
+                    "Exclude a few shows that play with ads before and after the video"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Max",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT2t4c_Cw38dWnMc74v5OkqNPQCaT9zdWPYCj7jUGLDw&s",
+        "plans": [
+            {
+                "name": "Standard with Ads",
+                "price": 9.99,
+                "ads": true,
+                "points": [
+                    "Watch with limited ads",
+                    "Stream on 2 devices at once",
+                    "Full HD video resolution"
+                ]
+            },
+            {
+                "name": "Standard",
+                "price": 15.99,
+                "ads": false,
+                "points": [
+                    "Stream on 2 devices at once",
+                    "Full HD video resolution",
+                    "30 downloads to watch on the go"
+                ]
+            },
+            {
+                "name": "Ultimate",
+                "price": 19.99,
+                "ads": false,
+                "points": [
+                    "Stream on 4 devices at once",
+                    "4K Ultra HD video quality (as available)",
+                    "Dolby Atmos immersive audio (as available)",
+                    "100 downloads to watch on the go"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Apple TV+",
+        "logo": "https://www.apple.com/newsroom/images/product/apple-tv-plus/standard/QR-Apple-TV-chiclet.jpg.square_social.jpg",
+        "plans": [
+            {
+                "name": "Standard",
+                "price": 9.99,
+                "ads": false,
+                "points": [
+                    "New Apple Originals every month \u2014 always ad\u2011free",
+                    "Stream on the Apple TV app on Apple devices, smart TVs, consoles, or sticks",
+                    "Watch in 4K HDR video with immersive Spatial Audio",
+                    "Share a single subscription with up to five people"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Disney+",
+        "logo": "https://i.pinimg.com/originals/18/2f/a9/182fa913106ff4d99bf83564d7c4e480.jpg",
+        "plans": [
+            {
+                "name": "Basic",
+                "price": 7.99,
+                "ads": true,
+                "points": [
+                    "With Ads",
+                    "Supports up to 5.1 audio",
+                    "Experience video quality in up to 4K UHD & HDR",
+                    "Stream on multiple devices at a time"
+                ]
+            },
+            {
+                "name": "Premium",
+                "price": 13.99,
+                "ads": false,
+                "points": [
+                    "No Ads",
+                    "Immerse sound with up to Dolby Atmos audio",
+                    "Experience video quality in up to 4K UHD & HDR",
+                    "Stream on multiple devices at a time",
+                    "Downloads on up to 10 devices"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Amazon Prime Video",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNDHz_ZtkTGxMgGjFG9fGZUumwO0w2skBTF4KdVgxeQ&s",
+        "plans": [
+            {
+                "name": "Prime Video with Ads",
+                "price": 8.99,
+                "ads": true,
+                "points": [
+                    "Only unlimited TV show and movie streaming service with ads"
+                ]
+            },
+            {
+                "name": "Prime Video",
+                "price": 11.98,
+                "ads": false,
+                "points": [
+                    "Only unlimited TV show and movie streaming service"
+                ]
+            },
+            {
+                "name": "Prime with Ads",
+                "price": 14.99,
+                "ads": true,
+                "points": [
+                    "Unlimited TV show and movie streaming service with ads",
+                    "Includes Amazon Prime membership"
+                ]
+            },
+            {
+                "name": "Prime",
+                "price": 17.98,
+                "ads": false,
+                "points": [
+                    "Unlimited TV show and movie streaming service",
+                    "Includes Amazon Prime membership"
+                ]
+            }
+        ]
+    }
+]
