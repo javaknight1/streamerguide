@@ -8,24 +8,27 @@ def get_new_streamer_details():
     moreplans = True
 
     while moreplans:
-        plan_title = input(f"Name of plan {len(plans)+1}:\n")
-        plan_price = input(f"Price of plan {len(plans)+1}:\n")
+        print(f"Plan {len(plans)+1}")
+        print("==============")
 
-        ads = False
-        if input(f"Does plan {len(plans)+1} include ads (y/n):\n").lower() == ["yes", "y"]:
-            ads = True
+        plan_title = input(f"Name: ")
+        plan_price = input(f"Price: ")
+
+        ads = input(f"Ads? (y/n):\n").lower() in ["yes", "y"]
+        offline = input(f"Offline/Download? (y/n):\n").lower() in ["yes", "y"]
 
         points = []
         morepoints = True
         while morepoints:
-            points.append(input(f"Enter the next point for plan {len(plans)+1}:\n"))
+            points.append(input(f"Point {len(plans)+1}: "))
             morepoints = points[-1] != ""
         points = points[:-1]
 
         plans.append({
             "name": plan_title,
-            "price": plan_price,
+            "price": float(plan_price),
             "ads": ads,
+            "offline": offline,
             "points": points
         })
 
