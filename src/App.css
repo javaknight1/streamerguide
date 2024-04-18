@@ -10,6 +10,12 @@
   text-align: center;
 }
 
+.App-Filters {
+  display: flex;
+  margin-left: auto;
+  margin-right: 50px;
+}
+
 .Total-Cost {
   text-align: center;
   padding: 50px;

@@ -7,7 +7,7 @@
                 "name": "Standard with Ads",
                 "price": 6.99,
                 "ads": true,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Ad-supported, all but a few movies and TV shows available, unlimited mobile games",
                     "Watch on 2 supported devices at a time",
@@ -19,7 +19,7 @@
                 "name": "Standard",
                 "price": 15.49,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Unlimited ad-free movies, TV shows, and mobile games",
                     "Watch on 2 supported devices at a time",
@@ -32,7 +32,7 @@
                 "name": "Premium",
                 "price": 22.99,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Unlimited ad-free movies, TV shows, and mobile games",
                     "Watch on 4 supported devices at a time",
@@ -61,7 +61,7 @@
                 "name": "Standard",
                 "price": 17.99,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Watch most of those same shows and movies without the ad breaks",
                     "Exclude a few shows that play with ads before and after the video"
@@ -88,7 +88,7 @@
                 "name": "Standard",
                 "price": 15.99,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Stream on 2 devices at once",
                     "Full HD video resolution",
@@ -99,7 +99,7 @@
                 "name": "Ultimate",
                 "price": 19.99,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Stream on 4 devices at once",
                     "4K Ultra HD video quality (as available)",
@@ -117,7 +117,7 @@
                 "name": "Standard",
                 "price": 9.99,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "New Apple Originals every month \u2014 always ad\u2011free",
                     "Stream on the Apple TV app on Apple devices, smart TVs, consoles, or sticks",
@@ -147,7 +147,7 @@
                 "name": "Premium",
                 "price": 13.99,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "No Ads",
                     "Immerse sound with up to Dolby Atmos audio",
@@ -166,7 +166,7 @@
                 "name": "Prime Video with Ads",
                 "price": 8.99,
                 "ads": true,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Only unlimited TV show and movie streaming service with ads"
                 ]
@@ -175,7 +175,7 @@
                 "name": "Prime Video",
                 "price": 11.98,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Only unlimited TV show and movie streaming service"
                 ]
@@ -184,7 +184,7 @@
                 "name": "Prime with Ads",
                 "price": 14.99,
                 "ads": true,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Unlimited TV show and movie streaming service with ads",
                     "Includes Amazon Prime membership"
@@ -194,7 +194,7 @@
                 "name": "Prime",
                 "price": 17.98,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Unlimited TV show and movie streaming service",
                     "Includes Amazon Prime membership"
@@ -220,7 +220,7 @@
                 "name": "Premium with SHOWTIME",
                 "price": 11.99,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Stream over 45,000 episodes and movies commercial-free (except live TV and a few shows)",
                     "Enjoy benefits like downloads, your live, local CBS station",
@@ -249,7 +249,7 @@
                 "name": "Premium Plus",
                 "price": 11.99,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "No ads (limited exclusions)",
                     "Download & watch select titles offline",
@@ -276,7 +276,7 @@
                 "name": "Standard",
                 "price": 8.99,
                 "ads": false,
-                "offline": false,
+                "offline": true,
                 "points": [
                     "Unlimited access to all of discovery+ without ads",
                     "Watch offline with mobile downloads"
