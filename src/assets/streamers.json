@@ -283,5 +283,232 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "Fubo",
+        "logo": "https://play-lh.googleusercontent.com/rv0XWn48dVzATzu4IZHTBXbRMb_92PMyB8lAIUfuV-QA2nmGF2i4VBdhFH88CO5Ptt8",
+        "plans": [
+            {
+                "name": "Pro",
+                "price": 79.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "Channels and features perfect for families",
+                    "194 channels - 100+ sporting events",
+                    "Cloud DVR - 1000 hours of space",
+                    "Unlimited Screens - 10 at home"
+                ]
+            },
+            {
+                "name": "Elite",
+                "price": 89.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "263 channels - 130+ events in 4K",
+                    "Fubo Extra - 58 more channels",
+                    "News Plus - 11 extra channels",
+                    "Cloud DVR - 1000 hours of space",
+                    "Unlimited Screens - 10 at home"
+                ]
+            },
+            {
+                "name": "Premier",
+                "price": 99.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "272 channels - 130+ events in 4K",
+                    "Fubo Extra - 58 more channels",
+                    "News Plus - 11 extra channels",
+                    "SHOWTIME - live and on demand",
+                    "Cloud DVR - 1000 hours of space",
+                    "Unlimited Screens - 10 at home"
+                ]
+            },
+            {
+                "name": "Latino",
+                "price": 32.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "65 channels - 100+ sporting events",
+                    "Cloud DVR - 250 hours of space",
+                    "Standard Share - 2 screens at once"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Starz",
+        "logo": "https://play-lh.googleusercontent.com/ZF0lnNTgrJqZ-WLubeF09m_gLt4IaL7189Wv0F6uwHmO7gJB3Om5bhanXdJci8FenNuS",
+        "plans": [
+            {
+                "name": "Standard",
+                "price": 9.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "Unlimited access",
+                    "Ad-free streaming",
+                    "Download to watch offline",
+                    "Cancel Anytime"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Youtube",
+        "logo": "https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-wiwalbpx.png",
+        "plans": [
+            {
+                "name": "Premium",
+                "price": 13.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "Ad-free so you can immerse in your favorite videos without interruption",
+                    "Download videos to watch later when you\u2019re offline or on the go",
+                    "Background play so you can watch while using other apps or with your screen locked",
+                    "Stream all the music you want to hear, ad-free on the YouTube Music app"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Youtube TV",
+        "logo": "https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-wiwalbpx.png",
+        "plans": [
+            {
+                "name": "Base",
+                "price": 72.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "100+ live channels",
+                    "Unlimited DVR space",
+                    "Special features like Key Plays View",
+                    "6 household accounts and 3 streams"
+                ]
+            },
+            {
+                "name": "Spanish",
+                "price": 24.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "30+ Spanish networks",
+                    "Unlimited DVR space",
+                    "Special features like Key Plays View",
+                    "6 household accounts and 3 streams"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Sling TV",
+        "logo": "https://www.sling.com/content/dam/sling-tv/whatson-blog/author-image/SLING%202023%20LOGO%201200x1200.png",
+        "plans": [
+            {
+                "name": "Orange",
+                "price": 40.0,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "32 total channgels including 6 exclusive sports and family channels",
+                    "Stream on 1 devices at a time"
+                ]
+            },
+            {
+                "name": "Blue",
+                "price": 40.0,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "40 total channels including 14 exclusive News and Entertainment channels",
+                    "Stream on 3 devices at a time"
+                ]
+            },
+            {
+                "name": "Orange + Blue",
+                "price": 55.0,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "Enjoy all 46 Orange and BLue channels including all 22 exclusive channels",
+                    "Stream on 3 devices at a time"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "AMC+",
+        "logo": "https://play-lh.googleusercontent.com/u4Nc-YB3wu-iBm3MaPu6u6_r0yEkNGnz2XW2jQVRTYIRaJzWtXL3rPea4lXUMJqIo_A",
+        "plans": [
+            {
+                "name": "Standard with Ads",
+                "price": 4.99,
+                "ads": true,
+                "offline": false,
+                "points": [
+                    "Includes full access to AMC+, Shudder, Sundance Now and IFC Films Unlimited",
+                    "6 Live TV Channels"
+                ]
+            },
+            {
+                "name": "Standard",
+                "price": 8.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "Includes full access to AMC+, Shudder, Sundance Now and IFC Films Unlimited",
+                    "6 Live TV Channels",
+                    "Stream without ads",
+                    "Download to watch on the go"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MGM+",
+        "logo": "https://seeklogo.com/images/M/mgm-logo-C4D6AE714E-seeklogo.com.png",
+        "plans": [
+            {
+                "name": "Standard",
+                "price": 6.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "Watch MGM+ series and movies with a subscription through your TV provider",
+                    "Watch what's airing now or stream on demand - all commercial free",
+                    "Download full episodes and movies with the MGM+ mobile apps"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "BET+",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqOZ1IMdDI6eJrfSwfMIb4hn-Rvadb9dtwJjqAMlWYmQ&s",
+        "plans": [
+            {
+                "name": "Essential",
+                "price": 5.99,
+                "ads": true,
+                "offline": false,
+                "points": [
+                    "Stream with limited ads"
+                ]
+            },
+            {
+                "name": "Premium",
+                "price": 9.99,
+                "ads": false,
+                "offline": true,
+                "points": [
+                    "Stream ad-free"
+                ]
+            }
+        ]
     }
 ]

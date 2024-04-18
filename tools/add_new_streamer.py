@@ -20,7 +20,7 @@ def get_new_streamer_details():
         points = []
         morepoints = True
         while morepoints:
-            points.append(input(f"Point {len(plans)+1}: "))
+            points.append(input(f"Point {len(points)+1}: "))
             morepoints = points[-1] != ""
         points = points[:-1]
 
