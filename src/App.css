@@ -17,6 +17,7 @@
 }
 
 .Total-Cost {
+  position: fixed;
   text-align: center;
   padding: 50px;
   font-size: larger;
@@ -26,8 +27,8 @@
   font-weight: bolder;
 }
 
-.Total-Cost-Price {
-
+.Total-Cost-Logo {
+  margin-right: 5px;
 }
 
 .Streamer-Card {
